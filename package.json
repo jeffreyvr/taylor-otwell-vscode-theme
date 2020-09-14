@@ -1,0 +1,21 @@
+{
+    "name": "taylor-otwell-theme",
+    "displayName": "taylor-otwell-theme",
+    "description": "Inspired Github theme based on Taylor Otwells theme in SublimeText.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Taylor Otwell Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Taylor Otwell Theme-color-theme.json"
+            }
+        ]
+    }
+}
